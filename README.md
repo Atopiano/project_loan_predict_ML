@@ -1,4 +1,5 @@
-[![Video Label](https://i.imgur.com/ySyXkQa.png)](https://youtu.be/hYWTEHy_uE8)
+[![Video Label](https://i.imgur.com/CiGEJ25.png)](https://youtu.be/hYWTEHy_uE8)
+
 # 팀명
 `하하호호`
 
